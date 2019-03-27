@@ -1,0 +1,94 @@
+﻿@{
+    ViewBag.Title = "Get a Quote Now!";
+}
+<h2 class="mt-4 mb-2">Welcome to Car Insurance PriceCruncher!</h2>
+<p class="mb-4 text-warning">Please answer the questions below to calculate your quote.</p>
+
+<div class="container-fluid">
+    @using (Html.BeginForm("Calculate", "Home", FormMethod.Post))
+    {
+        <div class="row">
+            <div class="col-sm-3">
+                <p>What is your first name?</p>
+            </div>
+            <div class="col-sm-3">
+                <input name="FirstName" type="text" class="form-control" required/>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-3">
+                <p>What is your last name?</p>
+            </div>
+            <div class="col-sm-3">
+                <input name="lastName" type="text" class="form-control" />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-3">
+                <p>What is your email?</p>
+            </div>
+            <div class="col-sm-3">
+                <input name="emailAddress" type="email" class="form-control" />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-3">
+                <p>What is your date of birth?</p>
+            </div>
+            <div class="col-sm-3">
+                <input name="DOB" type="date" class="form-control" required/>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-3">
+                <p>Please enter the make of the car you would like to insure.</p>
+            </div>
+            <div class="col-sm-3">
+                <input name="Make" type="text" class="form-control" placeholder="e.g., Toyota" required/>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-3">
+                <p>Please enter the car's model.</p>
+            </div>
+            <div class="col-sm-3">
+                <input name="Model" type="text" class="form-control" placeholder="e.g., Prius" required/>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-3">
+                <p>Please enter the car's year.</p>
+            </div>
+            <div class="col-sm-3">
+                <input name="Year" type="number" class="form-control" required/>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-3">
+                <p>Have you had a DUI before?</p>
+            </div>
+            <div class="col-sm-3">
+                <input type="radio" class="small" name="DUI" value="true" />Yes<br />
+                <input type="radio" class="small" name="DUI" value="false" />No<br />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-3">
+                <p>How many speeding tickets have you been issued?</p>
+            </div>
+            <div class="col-sm-3">
+                <input name="Tickets" type="number" class="form-control" required />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-3">
+                <p>Would you like full coverage or liability?</p>
+            </div>
+            <div class="col-sm-3">
+                <input type="checkbox" class="small" name="FullCoverage" value="Liability" />Liability<br />
+                <input type="checkbox" class="small" name="FullCoverage" value="FullCoverage" />Full Coverage<br />
+            </div>
+        </div>
+        <button class="btn-primary mt-3" type="submit">Calculate Your Quote</button>
+    }
+</div>

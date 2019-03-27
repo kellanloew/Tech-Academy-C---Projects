@@ -1,0 +1,26 @@
+﻿@using InsuranceQuote.ViewModels
+@model List<InsuranceViewModels>
+
+<h3 class="mt-4 mb-4">@ViewBag.Message</h3>
+
+<table class="table table-striped table-dark">
+    <thead>
+        <tr>
+            <th scope="col">First</th>
+            <th scope="col">Last</th>
+            <th scope="col">Email</th>
+            <th scope="col">Quote</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (InsuranceViewModels quote in Model)
+        {
+            <tr>
+                <th scope="row">@quote.firstName</th>
+                <td scope="row">@quote.lastName</td>
+                <td scope="row">@quote.email</td>
+                <td scope="row">$@quote.quote</td>
+            </tr>
+        }
+    </tbody>
+</table>

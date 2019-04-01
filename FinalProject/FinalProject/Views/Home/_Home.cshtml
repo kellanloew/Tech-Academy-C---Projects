@@ -1,0 +1,43 @@
+﻿
+<div class="container p-0">
+    <p class="mb-5">Enter your name: <input data-bind="value: name" placeholder="Your Name" /></p>
+    <form data-bind="submit:addItem">
+        <button class="btn btn-primary btn-lg">Add...</button>
+        <div class="row">
+            <div class="col">
+                <label>Title:</label>
+                <input type="text" class="form-control" data-bind="value:addTitle" placeholder="E.g., Milk and Honey" required />
+            </div>
+            <div class="col">
+                <label>Artist/Composer:</label>
+                <input type="text" class="form-control" data-bind="value:addArtist" placeholder="E.g., Jackson Frank" required />
+            </div>
+            <div class="col">
+                <label>Genre:</label>
+                <input type="text" class="form-control" data-bind="value:addGenre" placeholder="E.g., Blues" required />
+            </div>
+        </div>
+    </form>
+</div>
+
+
+<h2 class="mt-4" id="favorite"></h2>
+
+<table class="table table-hover" id="MusicTable">
+    <thead>
+        <tr>
+            <th scope="col">Title</th>
+            <th scope="col">Artist</th>
+            <th scope="col">Genre</th>
+            <th scope="col">Delete</th>
+        </tr>
+    </thead>
+    <tbody></tbody>
+</table>
+
+<button class="btn btn-danger btn-sm" id="deleteSelected">Delete</button>
+<h2 class="mt-4">Number of titles: <span data-bind="text: titles().length"></span></h2>
+
+<script type="text/javascript" src="Scripts/app/MyStuff.js">
+
+</script>

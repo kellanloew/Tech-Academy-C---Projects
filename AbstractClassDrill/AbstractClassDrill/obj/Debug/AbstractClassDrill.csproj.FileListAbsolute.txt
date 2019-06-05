@@ -1,0 +1,7 @@
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\AbstractClassDrill\AbstractClassDrill\obj\Debug\AbstractClassDrill.csprojAssemblyReference.cache
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\AbstractClassDrill\AbstractClassDrill\obj\Debug\AbstractClassDrill.csproj.CoreCompileInputs.cache
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\AbstractClassDrill\AbstractClassDrill\bin\Debug\AbstractClassDrill.exe.config
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\AbstractClassDrill\AbstractClassDrill\bin\Debug\AbstractClassDrill.exe
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\AbstractClassDrill\AbstractClassDrill\bin\Debug\AbstractClassDrill.pdb
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\AbstractClassDrill\AbstractClassDrill\obj\Debug\AbstractClassDrill.exe
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\AbstractClassDrill\AbstractClassDrill\obj\Debug\AbstractClassDrill.pdb

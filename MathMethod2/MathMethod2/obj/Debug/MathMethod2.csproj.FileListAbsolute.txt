@@ -1,0 +1,7 @@
+C:\Users\TTA_DEN_STUDENT\source\repos\MathMethod2\MathMethod2\obj\Debug\MathMethod2.csprojAssemblyReference.cache
+C:\Users\TTA_DEN_STUDENT\source\repos\MathMethod2\MathMethod2\obj\Debug\MathMethod2.csproj.CoreCompileInputs.cache
+C:\Users\TTA_DEN_STUDENT\source\repos\MathMethod2\MathMethod2\bin\Debug\MathMethod2.exe.config
+C:\Users\TTA_DEN_STUDENT\source\repos\MathMethod2\MathMethod2\bin\Debug\MathMethod2.exe
+C:\Users\TTA_DEN_STUDENT\source\repos\MathMethod2\MathMethod2\bin\Debug\MathMethod2.pdb
+C:\Users\TTA_DEN_STUDENT\source\repos\MathMethod2\MathMethod2\obj\Debug\MathMethod2.exe
+C:\Users\TTA_DEN_STUDENT\source\repos\MathMethod2\MathMethod2\obj\Debug\MathMethod2.pdb

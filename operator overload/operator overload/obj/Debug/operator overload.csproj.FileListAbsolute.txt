@@ -1,0 +1,7 @@
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\operator overload\operator overload\obj\Debug\operator overload.csprojAssemblyReference.cache
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\operator overload\operator overload\obj\Debug\operator overload.csproj.CoreCompileInputs.cache
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\operator overload\operator overload\bin\Debug\operator overload.exe.config
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\operator overload\operator overload\bin\Debug\operator overload.exe
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\operator overload\operator overload\bin\Debug\operator overload.pdb
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\operator overload\operator overload\obj\Debug\operator overload.exe
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\operator overload\operator overload\obj\Debug\operator overload.pdb

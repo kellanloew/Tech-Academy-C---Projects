@@ -1,0 +1,7 @@
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\LambdaDrill\LambdaDrill\bin\Debug\LambdaDrill.exe.config
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\LambdaDrill\LambdaDrill\bin\Debug\LambdaDrill.exe
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\LambdaDrill\LambdaDrill\bin\Debug\LambdaDrill.pdb
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\LambdaDrill\LambdaDrill\obj\Debug\LambdaDrill.csprojAssemblyReference.cache
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\LambdaDrill\LambdaDrill\obj\Debug\LambdaDrill.csproj.CoreCompileInputs.cache
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\LambdaDrill\LambdaDrill\obj\Debug\LambdaDrill.exe
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\LambdaDrill\LambdaDrill\obj\Debug\LambdaDrill.pdb

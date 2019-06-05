@@ -1,0 +1,7 @@
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\TryCatchDrill\TryCatchDrill\bin\Debug\TryCatchDrill.exe.config
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\TryCatchDrill\TryCatchDrill\bin\Debug\TryCatchDrill.exe
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\TryCatchDrill\TryCatchDrill\bin\Debug\TryCatchDrill.pdb
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\TryCatchDrill\TryCatchDrill\obj\Debug\TryCatchDrill.csproj.CoreCompileInputs.cache
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\TryCatchDrill\TryCatchDrill\obj\Debug\TryCatchDrill.exe
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\TryCatchDrill\TryCatchDrill\obj\Debug\TryCatchDrill.pdb
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\TryCatchDrill\TryCatchDrill\obj\Debug\TryCatchDrill.csprojAssemblyReference.cache

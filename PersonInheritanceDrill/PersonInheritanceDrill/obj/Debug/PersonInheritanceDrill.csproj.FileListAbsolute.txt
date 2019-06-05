@@ -1,0 +1,7 @@
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\PersonInheritanceDrill\PersonInheritanceDrill\bin\Debug\PersonInheritanceDrill.exe.config
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\PersonInheritanceDrill\PersonInheritanceDrill\bin\Debug\PersonInheritanceDrill.exe
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\PersonInheritanceDrill\PersonInheritanceDrill\bin\Debug\PersonInheritanceDrill.pdb
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\PersonInheritanceDrill\PersonInheritanceDrill\obj\Debug\PersonInheritanceDrill.csprojAssemblyReference.cache
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\PersonInheritanceDrill\PersonInheritanceDrill\obj\Debug\PersonInheritanceDrill.csproj.CoreCompileInputs.cache
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\PersonInheritanceDrill\PersonInheritanceDrill\obj\Debug\PersonInheritanceDrill.exe
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\PersonInheritanceDrill\PersonInheritanceDrill\obj\Debug\PersonInheritanceDrill.pdb

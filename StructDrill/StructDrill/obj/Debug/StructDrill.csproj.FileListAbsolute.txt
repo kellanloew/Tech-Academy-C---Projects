@@ -1,0 +1,6 @@
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\StructDrill\StructDrill\bin\Debug\StructDrill.exe.config
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\StructDrill\StructDrill\bin\Debug\StructDrill.exe
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\StructDrill\StructDrill\bin\Debug\StructDrill.pdb
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\StructDrill\StructDrill\obj\Debug\StructDrill.csproj.CoreCompileInputs.cache
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\StructDrill\StructDrill\obj\Debug\StructDrill.exe
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\StructDrill\StructDrill\obj\Debug\StructDrill.pdb

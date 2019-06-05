@@ -1,0 +1,7 @@
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\EnumDrill\EnumDrill\bin\Debug\EnumDrill.exe.config
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\EnumDrill\EnumDrill\bin\Debug\EnumDrill.exe
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\EnumDrill\EnumDrill\bin\Debug\EnumDrill.pdb
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\EnumDrill\EnumDrill\obj\Debug\EnumDrill.csprojAssemblyReference.cache
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\EnumDrill\EnumDrill\obj\Debug\EnumDrill.csproj.CoreCompileInputs.cache
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\EnumDrill\EnumDrill\obj\Debug\EnumDrill.exe
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\EnumDrill\EnumDrill\obj\Debug\EnumDrill.pdb

@@ -1,0 +1,7 @@
+C:\Users\TTA_DEN_STUDENT\source\repos\MathMethodDrill5\MathMethodDrill5\bin\Debug\MathMethodDrill5.exe.config
+C:\Users\TTA_DEN_STUDENT\source\repos\MathMethodDrill5\MathMethodDrill5\bin\Debug\MathMethodDrill5.exe
+C:\Users\TTA_DEN_STUDENT\source\repos\MathMethodDrill5\MathMethodDrill5\bin\Debug\MathMethodDrill5.pdb
+C:\Users\TTA_DEN_STUDENT\source\repos\MathMethodDrill5\MathMethodDrill5\obj\Debug\MathMethodDrill5.csprojAssemblyReference.cache
+C:\Users\TTA_DEN_STUDENT\source\repos\MathMethodDrill5\MathMethodDrill5\obj\Debug\MathMethodDrill5.csproj.CoreCompileInputs.cache
+C:\Users\TTA_DEN_STUDENT\source\repos\MathMethodDrill5\MathMethodDrill5\obj\Debug\MathMethodDrill5.exe
+C:\Users\TTA_DEN_STUDENT\source\repos\MathMethodDrill5\MathMethodDrill5\obj\Debug\MathMethodDrill5.pdb

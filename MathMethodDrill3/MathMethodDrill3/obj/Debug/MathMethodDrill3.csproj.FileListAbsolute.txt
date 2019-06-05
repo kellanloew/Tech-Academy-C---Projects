@@ -1,0 +1,7 @@
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\MathMethodDrill3\MathMethodDrill3\bin\Debug\MathMethodDrill3.exe.config
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\MathMethodDrill3\MathMethodDrill3\bin\Debug\MathMethodDrill3.exe
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\MathMethodDrill3\MathMethodDrill3\bin\Debug\MathMethodDrill3.pdb
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\MathMethodDrill3\MathMethodDrill3\obj\Debug\MathMethodDrill3.csprojAssemblyReference.cache
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\MathMethodDrill3\MathMethodDrill3\obj\Debug\MathMethodDrill3.csproj.CoreCompileInputs.cache
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\MathMethodDrill3\MathMethodDrill3\obj\Debug\MathMethodDrill3.exe
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\MathMethodDrill3\MathMethodDrill3\obj\Debug\MathMethodDrill3.pdb

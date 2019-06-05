@@ -1,0 +1,7 @@
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\AdditionalFeaturesDrill\AdditionalFeaturesDrill\bin\Debug\AdditionalFeaturesDrill.exe.config
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\AdditionalFeaturesDrill\AdditionalFeaturesDrill\bin\Debug\AdditionalFeaturesDrill.exe
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\AdditionalFeaturesDrill\AdditionalFeaturesDrill\bin\Debug\AdditionalFeaturesDrill.pdb
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\AdditionalFeaturesDrill\AdditionalFeaturesDrill\obj\Debug\AdditionalFeaturesDrill.csprojAssemblyReference.cache
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\AdditionalFeaturesDrill\AdditionalFeaturesDrill\obj\Debug\AdditionalFeaturesDrill.csproj.CoreCompileInputs.cache
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\AdditionalFeaturesDrill\AdditionalFeaturesDrill\obj\Debug\AdditionalFeaturesDrill.exe
+C:\Users\TTA_DEN_STUDENT\Documents\GitHub\Tech-Academy-Small-C-Sharp-Projects\AdditionalFeaturesDrill\AdditionalFeaturesDrill\obj\Debug\AdditionalFeaturesDrill.pdb

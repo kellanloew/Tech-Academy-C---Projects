@@ -145,16 +145,6 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Insurance.Context.tt</DependentUpon>
     </Compile>
-    <Compile Include="Models\Insurance.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Insurance.tt</DependentUpon>
-    </Compile>
-    <Compile Include="Models\Insurance.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Insurance.edmx</DependentUpon>
-    </Compile>
     <Compile Include="Models\InsuranceQuote.cs">
       <DependentUpon>Insurance.tt</DependentUpon>
     </Compile>

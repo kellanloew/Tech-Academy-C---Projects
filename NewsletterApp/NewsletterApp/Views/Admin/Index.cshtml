@@ -1,0 +1,35 @@
+﻿@using NewsletterApp.ViewModels
+@model List<SignupVm>
+
+<div class="row no-gutters m-3">
+    <div class="card col-sm-12 col-md-10 col-lg-6 mx-auto shadow">
+        <div class="card-header text-center">
+            <h5 class="m-0">Current Sign-ups</h5>
+        </div>
+        <div class="card-body">
+            @foreach (var signup in Model)
+            {
+                using (Html.BeginForm("Unsubscribe", "Admin", FormMethod.Post)) //A razor helper method. Calls Unsubscribe method in Admin Controller
+                {
+                    <input type="hidden" name="Id" value="@signup.Id"/> //Input tag has value of subscriber's ID which get sumitted to controller method if submitted by button
+                    <div class="row border mb-2">
+                        <div class="col-2">
+                            @signup.FirstName
+                        </div>
+                        <div class="col">
+                            @signup.LastName
+                        </div>
+                        <div class="col-4">
+                            @signup.EmailAddress
+                        </div>
+                        <div class="col">
+                            <button type="submit" class="btn btn-danger">
+                                Unsubcribe
+                            </button>
+                        </div>
+                    </div>
+                }
+            }
+        </div>
+    </div>
+</div>
